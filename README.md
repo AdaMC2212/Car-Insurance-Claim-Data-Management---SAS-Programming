@@ -2,6 +2,8 @@
 
 This is a car insurance claim created with SAS Programming Language.
 
+Group Member : <a href="https://github.com/AdaMC2212">**Yong Xiang**</a>, <a href="https://github.com/sebaisdiii">**Weng Thim**</a> , <a href="https://github.com/nosuchname712">**Yan Yang**</a> 
+
 ---
 
 ## Scenario
